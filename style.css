@@ -47,7 +47,7 @@ select {
   font-size: 20px;
 }
 
-.house-label {
+#house-label {
   align-items: center;
   justify-content: center;
 }
